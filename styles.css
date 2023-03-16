@@ -3,6 +3,8 @@ body {
   animation: fadeIn ease 1s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
+  font-family: Poppins;
+
 }
 
 @keyframes fadeIn {
